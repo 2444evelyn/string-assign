@@ -15,6 +15,6 @@ fun main() {
     var Name = "evelyn"
     if(Name== "bleh"){
         println("thats me")
-    }else{println("thats not me")
+    }else{println("i dont know who that is")
     }
 }
