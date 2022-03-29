@@ -1,7 +1,7 @@
 fun main() {
 
-    var text = "akirachix"
-    var u = text[0].toString() + text[2] + text[3]
+    var text = "akirachix""
+    var u = text[0].toString()) + text[2] + text[3]
     println(u)
 
     var x = "Tsuma"
