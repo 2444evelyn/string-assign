@@ -4,7 +4,7 @@ fun main() {
     var u = text[0].toString() + text[2] + text[3]
     println(u)
 
-    var x = "Tsuma"
+    var x = "Nancy"
     var y = 20
     var detail = "Hi,my name is $x and i am $y years old"
     println(detail)
